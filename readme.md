@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/arbaaz/arbaaz.svg)](http://hits.dwyl.com/arbaaz/arbaaz)
 <div align="center">
 	<br>
 	<br>
